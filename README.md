@@ -9,6 +9,6 @@ Robo 3T `https://robomongo.org/` (Open-source MongoDB GUI) <br />
 # Set up
 Step 1 : Open Hyper Terminal <br />
 Step 2: Install all the Dependencies `npm i`<br />
-Step 3: run `mongod`
+Step 3: run `mongod` <br />
 Step 4: Open new tab on Hyper Terminal run `node app.js` <br/>
 Step 4:Open Postman to perform operations
