@@ -3,7 +3,7 @@ This project is a example of RESTful API with Chained Route Handlers Method usin
 
 # Requirement
 Postman `https://www.postman.com/`<br />
-Robo 3T `https://robomongo.org/` (Open-source MongoDB GUI) <br />
+Robo 3T `https://robomongo.org/` (MongoDB GUI) <br />
 
 
 # Set up
